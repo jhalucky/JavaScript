@@ -23,5 +23,15 @@ let personIsLoggedIn = Boolean(personLoggedIn);
 
 let integerName = 34566;
 let thisInteger_name = String(integerName);
-console.log(typeof(thisInteger_name));
-console.log(thisInteger_name);
+// console.log(typeof(thisInteger_name));
+// console.log(thisInteger_name);
+
+// ******** Operations ********* 
+let num1, num2, num3; 
+
+num1 = num2 = num3 = 2;
+
+let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter);
+ 
